@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Monedas
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3225819011
+    locked: 0
+  - name: World
+    uniqueID: 3820172145
+    locked: 0
+  - name: Character
+    uniqueID: 2734233137
     locked: 0
